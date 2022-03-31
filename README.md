@@ -4,10 +4,10 @@ A project that allows the user to sort a specific type of data (numbers, words, 
 ## Illustrations
 
 ### Sort numbers natural
-![](screenshot/number natural.png)
+![](screenshots/number natural.png)
 
 ### Sort numbers byCount
-![](screenshot/number byCount.png)
+![](screenshots/number byCount.png)
 
 ### Sort words natural
 ![](screenshot/getUsers.png)

@@ -10,13 +10,13 @@ A project that allows the user to sort a specific type of data (numbers, words, 
 ![](screenshots/numberByCount.png)
 
 ### Sort words natural
-![](screenshot/gwordsNatural.png)
+![](screenshots/gwordsNatural.png)
 
 ### Sort words byCount
-![](screenshot/wordsByCount.png)
+![](screenshots/wordsByCount.png)
 
 ### Sort lines natural
-![](screenshot/linesNatural.png)
+![](screenshots/linesNatural.png)
 
 ### Sort lines byCount
-![](screenshot/linesBycount.png)
+![](screenshots/linesBycount.png)

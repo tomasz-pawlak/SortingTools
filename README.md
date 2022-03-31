@@ -7,16 +7,16 @@ A project that allows the user to sort a specific type of data (numbers, words, 
 ![](screenshots/numberNatural.png)
 
 ### Sort numbers byCount
-![](screenshots/number byCount.png)
+![](screenshots/numberByCount.png)
 
 ### Sort words natural
-![](screenshot/getUsers.png)
+![](screenshot/gwordsNatural.png)
 
 ### Sort words byCount
-![](screenshot/lockUser.png)
+![](screenshot/wordsByCount.png)
 
 ### Sort lines natural
-![](screenshot/showEvents.png)
+![](screenshot/linesNatural.png)
 
 ### Sort lines byCount
-![](screenshot/uploadPayments.png)
+![](screenshot/linesBycount.png)

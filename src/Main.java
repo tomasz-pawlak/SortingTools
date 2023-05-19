@@ -5,7 +5,6 @@ public class Main {
     public static void main(final String[] args)  {
 
         System.out.println("Sorting tools program - sort numbers or strings");
-
         chooseType();
     }
 
